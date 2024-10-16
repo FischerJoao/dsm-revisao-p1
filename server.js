@@ -23,4 +23,9 @@ app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}.`);
 });
 
+<<<<<<< HEAD
 //commit
+=======
+//commit
+//add feature
+>>>>>>> development
